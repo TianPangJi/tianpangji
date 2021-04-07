@@ -1,5 +1,7 @@
 ### Hi there 👋
-![avatar](images/mk.gif)
+<a href="https://github.com/tianpangji/tianpangji">
+  <img align="center" src="https://img-blog.csdnimg.cn/20210407212021672.gif#pic_center" />
+</a>
 
 ### 🔰 GitHub Stats
 <!--
